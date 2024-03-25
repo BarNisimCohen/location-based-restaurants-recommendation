@@ -9,3 +9,7 @@ Our experimentation assessed three core aspects: precise geographic clustering o
 The chosen clustering approach enabled us to provide users with immediate quality-focused recommendations based on their location, improving user engagement and trust in the system.
 ## Data
 API KEY= to try this code you will need to inser your API KEY from Yelp. for help: https://docs.developer.yelp.com/docs/getting-started.
+## Restrictions
+Github does not allow to display "folium" type maps as there are in this work.
+In order to see the maps, screenshots were taken to the appendix attached to this project "Appendix to Jupyter Notebook".
+In order to see the maps interactively, the code must be run on a suitable environment.
